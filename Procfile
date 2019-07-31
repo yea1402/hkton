@@ -1,1 +1,1 @@
-web: gunicorn artist101project.wsgi --log-file -
+web: gunicorn artist101.wsgi --log-file -
